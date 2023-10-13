@@ -45,17 +45,3 @@ The application will start, and you can access it at [http://localhost:8080](htt
 
 - The application provides RESTful endpoints for basic CRUD operations.
 - Use your preferred API testing tool or software (e.g., Postman) to interact with the API.
-
-## Contributing
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a branch: `git checkout -b feature/new-feature`.
-3. Commit your changes: `git commit -am 'Add new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
