@@ -7,7 +7,7 @@ database.
 
 Before you begin, ensure you have met the following requirements:
 
-- Java Development Kit (JDK) installed
+- Java 17 Development Kit (JDK) installed
 - Maven installed
 - Your favorite Integrated Development Environment (IDE) or text editor
 
